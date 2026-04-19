@@ -5,7 +5,7 @@
       "name": "MacBook Pro M3",
       "category": "Laptop",
       "price": 1999,
-      "image": "https://picsum.photos/seed/macbook/600/400",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1171&auto=format&fit=crop",
       "description": "Supercharged by M3 chip for extreme performance and battery life.",
       "stock": 15
     },
@@ -14,7 +14,7 @@
       "name": "iPhone 15 Pro",
       "category": "Mobile",
       "price": 999,
-      "image": "https://picsum.photos/seed/iphone/600/400",
+      "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=1000&auto=format&fit=crop",
       "description": "Titanium design with A17 Pro chip and advanced camera system.",
       "stock": 25
     },
@@ -23,7 +23,7 @@
       "name": "Sony WH-1000XM5",
       "category": "Audio",
       "price": 349,
-      "image": "https://picsum.photos/seed/sony/600/400",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=1000&auto=format&fit=crop",
       "description": "Industry-leading noise canceling with exceptional sound quality.",
       "stock": 40
     },
@@ -32,7 +32,7 @@
       "name": "Samsung Odyssey G7",
       "category": "Monitor",
       "price": 699,
-      "image": "https://picsum.photos/seed/monitor/600/400",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=1000&auto=format&fit=crop",
       "description": "27-inch curved gaming monitor with 240Hz refresh rate.",
       "stock": 10
     },
@@ -41,7 +41,7 @@
       "name": "Keychron K2 V2",
       "category": "Accessories",
       "price": 89,
-      "image": "https://picsum.photos/seed/keyboard/600/400",
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?q=80&w=1000&auto=format&fit=crop",
       "description": "Compact wireless mechanical keyboard with RGB backlighting.",
       "stock": 50
     },
@@ -50,7 +50,7 @@
       "name": "Logitech MX Master 3S",
       "category": "Accessories",
       "price": 99,
-      "image": "https://picsum.photos/seed/mouse/600/400",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=1000&auto=format&fit=crop",
       "description": "High-performance wireless mouse for ultimate productivity.",
       "stock": 35
     },
@@ -59,7 +59,7 @@
       "name": "iPad Air M2",
       "category": "Tablet",
       "price": 599,
-      "image": "https://picsum.photos/seed/ipad/600/400",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=1000&auto=format&fit=crop",
       "description": "Powerful performance with M2 chip and vibrant Liquid Retina display.",
       "stock": 20
     },
@@ -68,9 +68,9 @@
       "name": "Apple Watch Ultra 2",
       "category": "Wearables",
       "price": 799,
-      "image": "https://picsum.photos/seed/watch/600/400",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1000&auto=format&fit=crop",
       "description": "The most rugged and capable Apple Watch ever for outdoor athletes.",
-      "stock": 12
+      "stock": 8
     }
   ]
 }
